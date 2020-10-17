@@ -1,0 +1,63 @@
+Data Science
+ -> work with data, to find answers to questions that are exploring.
+ ->the field of exploring, manipulating, and analyzing data, and using data to answer questions or make recommendations.
+ 
+ Past									Present
+ lack of data							Deluge
+ no Algorithms							Algorithms
+ Software expensive						Free and open source
+ Cannot store large amount of data 		Gazillion of dataset at low cost
+ not Ubiquitous							Ubiquitous
+ 
+ Fundamentals of Data Science
+ -> vast quantity of data from various source: 	log files, emails, SOCIAL MEDIA,, sales data, patient information files, sports performance data, sensor data, security cameras, and many more besides.
+ -> with computing power to make useful analysis and reveal new knowledge.
+ ->help organizations understand their environments, analyze existing issues, and reveal previously hidden opportunities. 
+ Data scientists use data analysis to add to the 
+								knowledge of the organization by investigating data,
+									exploring the best way to use it to provide value to the business.
+ 
+ Process of Data Science
+ Clarify the question that organisation wants answered
+ Curiosity to ask question inorder to clarify the business needs
+ 
+ Role of data Scientist
+ Analyze the structure and unstructured data from many sources
+ Exploring the data using muliple models and reveal patterns
+ storyteller, communicating results to stakeholders 
+ using data visualization tools understand the nature of results and recommendations action to take.
+ 
+ Data Science is 
+ changing the way we work
+ changing the way we use data
+ changing the way organisations understand the world.
+ 
+ 
+ Data Scientist
+ Curious(not curious, what to do with data)
+ Judgemental(no preconceived notions, where to begin with)
+ Arguementative(can argument, plead the case)(Storyteller)
+ 
+ 
+ How do you get a better solution that is efficient? 
+ Identify the problem and establish a clear understanding of it. 
+ Gather the data for analysis. 
+ Identify the right tools to use. 
+ Develop a data strategy. Case studies are also helpful in customizing a potential solution. 
+ Once these conditions exist and available data is extracted, you can develop a machine learning model. 
+ 
+ 
+ 
+ Data science is what data scientists do.
+ 
+ 
+ 
+ 
+ Cloud
+ 
+ Allows you to bypass the physical limitations of your personal computer and the systems you are using.
+ Allows you to deploy the analytics and storage capacities of advanced machines that do not necessarily have to be your machine or your company's machine.
+ Allows you to deploy very advanced computing algorithms and the ability to do high performance computing using machines that are not yours. 
+ Allows multiple entities to work with the same data at the same time.
+ Able to get instant access to -> Open Source Technologies like Apache Spark(without local configurations)
+								->up-to-date tools & libraries(without maintenance)
